@@ -36,4 +36,4 @@ $ yarn install
 $ yarn start
 $ A para iniciar via Móbile 
 ```
-# www.linkedin.com/leonardoabras
+# https://br.linkedin.com/in/leonardoabras
